@@ -1,5 +1,9 @@
 # Offline Web Interface 🌐
 
+<div align="center">
+  <img src="https://media.tenor.com/3ZvKQ60PUpMAAAAi/potz-power.gif" height="200" />
+</div>
+
 An offline-capable secure registration portal. The project is designed to demonstrate robust styling principles and clean structural visual hierarchy, allowing users to reliably submit account creation details.
 
 The design features a smooth HTML5 Canvas background drawing behind a centered, frosted-glass-style account creation form interface.
