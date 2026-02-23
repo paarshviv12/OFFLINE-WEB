@@ -1,16 +1,18 @@
 # Offline Web Interface 🌐
 
-A cohesive layout and interface project designed to demonstrate robust, offline-capable styling principles and clean structural visual hierarchy. It explores creating compelling designs without relying on massive external styling frameworks.
+An offline-capable secure registration portal. The project is designed to demonstrate robust styling principles and clean structural visual hierarchy, allowing users to reliably submit account creation details.
+
+The design features a smooth HTML5 Canvas background drawing behind a centered, frosted-glass-style account creation form interface.
 
 ## 🌟 Features
 - **Visual Hierarchy:** Distinct element separation and typographical scale for easy reading.
+- **Immersive Background:** A programmatic canvas background powering the visuals behind the form.
 - **Performance Optimized:** Fast rendering, lightweight, foundational structural styles.
-- **Responsive Grid:** Adaptable sections that organically fit varying viewport heights and widths.
 
 ## 🛠️ Built With
 - **HTML5:** Clean, lightweight document markup.
 - **CSS3:** Core structural stylings and typography adjustments.
-- **Vanilla JS:** Dynamic interactivity components.
+- **Vanilla JS:** Dynamic interactivity components rendering the canvas.
 
 ## 📁 File Structure
 ```text
